@@ -1,0 +1,5 @@
+{
+  "exec": "pnpm build",
+  "ext": "svelte,ts",
+  "watch": ["./src/"]
+}
